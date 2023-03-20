@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Contact App</string>
+    <string name="main_activity_title">Contacts</string>
+</resources>
